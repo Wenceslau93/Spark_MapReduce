@@ -16,7 +16,7 @@ Os dados usados ​​por um cientista de dados podem ser tanto estruturados (ba
 
 Após realizar o MapReduce através do código app.py feito em Python, dentro do arquivo parte-00000, é possível verificar o resultado.
 
-Segue o resultado abaixo:
+**Segue o resultado abaixo:**
 
 ('Eles', 1)</br>
 ('também', 1)</br>
