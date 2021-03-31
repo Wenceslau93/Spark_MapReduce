@@ -19,6 +19,7 @@ Após realizar o MapReduce através do código app.py feito em Python, dentro do
 Segue o resultado abaixo:
 
 ('Eles', 1)
+
 ('também', 1)
 ('são', 1)
 ('hum', 4)
